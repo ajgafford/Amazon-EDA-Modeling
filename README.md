@@ -1,5 +1,5 @@
 # Amazon Sales EDA and Modeling
-*A data analyst exploratory analysis and modeling project made with Amazon sales and rating data.*
+*A data analyst exploratory and modeling project made with Amazon sales and rating data.*
 
 ## Overview
 This project analyzes Amazon product pricing, sales, and ratings data, applying data preprocessing, exploratory analysis, and modeling techniques to uncover trends and relationships in the dataset.
